@@ -4,7 +4,7 @@
 ### Links
 
 - Solution URL: [Github](https://github.com/vinay-parit/Recipe-Page)
-- Live Site URL: [Vercel Link](https://qrcode-vitthal.netlify.app/)
+- Live Site URL: [Vercel Link](https://recipe-page-tau-eight.vercel.app/)
 
 ### ScreenShot
 
